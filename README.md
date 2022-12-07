@@ -1,6 +1,6 @@
 # Digital Concept Tutorial: How to use Social Media
 Presented to you by **Yuli Zhuo**
-<img src="finalpicture.png" alt="Social Media Illustration" style="height: 400px; width:500px;"/>
+<p align="center"><img src="finalpicture.png" alt="Social Media Illustration" style="height: 400px; width:500px;"/></p>
 
 ## Table of Contents
 1. What is "Social Media"
