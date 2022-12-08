@@ -7,4 +7,3 @@ Presented to you by **Yuli Zhuo**
 2. How do you use social media?
 3. Purposes of Social Media
 4. Consequences of Social Media
-5. Final Word
