@@ -16,3 +16,5 @@ One's reputation can be **tarnished or amplified with the help of social media**
 - Promoting activities or hobbies (e.g. workouts, art, singing, etc.)
 - Professional/Career purposes for connections
 - Memes
+
+[Back: How to use Social Media](https://link-url-here.org) ---------- [Next: Consequences of Social Media](https://link-url-here.org)
