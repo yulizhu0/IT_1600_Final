@@ -20,4 +20,4 @@ While most of the aforementioned features **aren't necessary for the main functi
 ## Getting Started
 After creating your account or accessing your account, **you are ready to start your social media journey**! Every platform will have their **unique way of interacting with content**. Usually, they'll also have **technical jargon or lingo that reference their features**. For example, Twitter refers to social media posts as "tweets" while Tumblr refers to posts as "blogs". Whenever a user likes a post and wants to add it to their own social media page, it'll be referred to as **"re"** **followed by the post's technical term** (e.g. retweet or reblog)
 
-[Back: What is Social Media?](https://link-url-here.org) ---------- [Next: Purposes of Social Media](https://link-url-here.org)
+[Back: What is Social Media?](https://github.com/yulizhu0/IT_1600_Final/blob/5488e69dabee193d8a64edb95349655bd76fe0fe/whatissocialmedia.md) ---------- [Next: Purposes of Social Media](https://link-url-here.org)
