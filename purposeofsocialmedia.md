@@ -17,4 +17,4 @@ One's reputation can be **tarnished or amplified with the help of social media**
 - Professional/Career purposes for connections
 - Memes
 
-[Back: How to use Social Media](https://github.com/yulizhu0/IT_1600_Final/blob/792f4aee3e128a72104fcb06e2a7a1f987dbddac/howtousesocialmedia.md) ---------- [Next: Consequences of Social Media](https://link-url-here.org)
+[Back: How to use Social Media](https://github.com/yulizhu0/IT_1600_Final/blob/792f4aee3e128a72104fcb06e2a7a1f987dbddac/howtousesocialmedia.md) ---------- [Next: Consequences of Social Media](https://github.com/yulizhu0/IT_1600_Final/blob/e5f2ad92cd52258a3debed36b12dbba55b9ccac0/consequencesofsocialmed.md)
